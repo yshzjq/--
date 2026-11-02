@@ -1,0 +1,89 @@
+{
+  "input_count": 10,
+  "kept_count": 10,
+  "quarantine_count": 0,
+  "excluded_count": 0,
+  "records": [
+    {
+      "page": 1,
+      "row": 1,
+      "id": 420219944,
+      "published_at": "2026-10-22T01:35:54Z",
+      "status": "kept",
+      "reason": null
+    },
+    {
+      "page": 1,
+      "row": 2,
+      "id": 418555132,
+      "published_at": "2026-10-20T15:24:59Z",
+      "status": "kept",
+      "reason": null
+    },
+    {
+      "page": 1,
+      "row": 3,
+      "id": 417904289,
+      "published_at": "2026-10-20T01:15:17Z",
+      "status": "kept",
+      "reason": null
+    },
+    {
+      "page": 1,
+      "row": 4,
+      "id": 417751044,
+      "published_at": "2026-10-19T21:02:37Z",
+      "status": "kept",
+      "reason": null
+    },
+    {
+      "page": 1,
+      "row": 5,
+      "id": 412359628,
+      "published_at": "2026-10-14T05:15:30Z",
+      "status": "kept",
+      "reason": null
+    },
+    {
+      "page": 2,
+      "row": 1,
+      "id": 408286693,
+      "published_at": "2026-10-09T19:49:55Z",
+      "status": "kept",
+      "reason": null
+    },
+    {
+      "page": 2,
+      "row": 2,
+      "id": 407218952,
+      "published_at": "2026-10-08T20:06:20Z",
+      "status": "kept",
+      "reason": null
+    },
+    {
+      "page": 2,
+      "row": 3,
+      "id": 402618784,
+      "published_at": "2026-10-03T17:34:11Z",
+      "status": "kept",
+      "reason": null
+    },
+    {
+      "page": 2,
+      "row": 4,
+      "id": 401449793,
+      "published_at": "2026-10-02T00:20:42Z",
+      "status": "kept",
+      "reason": null
+    },
+    {
+      "page": 2,
+      "row": 5,
+      "id": 399533040,
+      "published_at": "2026-09-29T21:14:06Z",
+      "status": "kept",
+      "reason": null
+    }
+  ],
+  "collection_sha256": "5d5ddb5d26f860a644d214ef50db3908ad9d0895136a19c383aa8b8fcdb17772"
+}
